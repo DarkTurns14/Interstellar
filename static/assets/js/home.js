@@ -173,6 +173,7 @@ document.addEventListener("DOMContentLoaded", event => {
 // Splash texts
 const SplashT = [
   "Made by Dark_Turns -Kayden S.",
+  "Made by Arkhavis -Kayden S",
   "Check out the settings page, there might be some useful stuff in there :>",
   "Want the tab to look less suspicious? Go over to the settings page and check out all the tab cloaking options!",
   "Try clicking here, It will change the quotes :>",
