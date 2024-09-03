@@ -19,7 +19,7 @@ const config = {
   Quentin: "Applesauce",
   Xzavier: "Xzavier13",
   Zavian: "Bruvidk_4410",
-  OwnerKey: "4523",
+  OwnerKey: "4523"
   },
 };
 
