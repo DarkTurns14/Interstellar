@@ -7,6 +7,7 @@ const config = {
   },
   users: {
     // You can add multiple users by doing username: 'password'.
+  Arkhavis: "m10142010m",
   Calum: "Smile3828",
   Dean: "AddictedToLegos",
   Emanuel: "24689",
@@ -18,8 +19,7 @@ const config = {
   Kale: "KaColon09",
   Quentin: "Applesauce",
   Xzavier: "Xzavier13",
-  Zavian: "Bruvidk_4410",
-  Arkhavis: "Tools"
+  Zavian: "Bruvidk_4410"
   },
 };
 
