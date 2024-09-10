@@ -177,8 +177,8 @@ const SplashT = [
   "Check out the settings page, there might be some useful stuff in there :>",
   "Want the tab to look less suspicious? Go over to the settings page and check out all the tab cloaking options!",
   "Try clicking here, It will change the quotes :>",
-  "Now.gg related Games/Apps are not working right now.",
   "Official Discord server: discord.gg/dyS58Zxhfj",
+  "Want to sign up a friend to get a login for Interstellar? Join the official discord server: discord.gg/dyS58Zxhfj",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
