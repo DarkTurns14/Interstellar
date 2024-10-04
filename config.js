@@ -14,7 +14,6 @@ const config = {
   Emanuel: "24689",
   Emma: "iloveketchup1526",
   Jade: "st4rr22",
-  Jadiel: "scented0candle.",
   Jasmine: "IdkMisi",
   Jayslee: "G3NSH1N_24",
   Kale: "KaColon09",
